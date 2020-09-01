@@ -2,9 +2,11 @@
 #include <string>
 
 int age;
-
+bool sw = false;
+char Initial = 'A';
 std::string name = "Adrian";
-
+std::string ad = "Jakkal";
+double a = 3;
 double pi = 3.14;
 
 int main() {
